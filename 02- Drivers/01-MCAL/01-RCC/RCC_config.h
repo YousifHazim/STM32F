@@ -16,7 +16,7 @@ Options:
 		RCC_PLL
 */
 
-#define RCC_CLOCK_TYPE 		RCC_HSE_CRYSTAL
+#define RCC_CLOCK_TYPE 		RCC_HSE_RC
 
 /*
 Options:
